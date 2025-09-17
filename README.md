@@ -77,4 +77,4 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Rajukonkalla
+RajuKonkalla, Bharadwaj
